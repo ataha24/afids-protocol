@@ -4,7 +4,7 @@ template: overrides/main.html
 ---
 
 !!! warning
-	This instructions here were curated on **3D Slicer 4.10.2:**<br>, however should remain generalizable to other versions of 3D Slicer! 
+	These instructions shown below were curated on **3D Slicer 4.10.2:**<br>, however should remain generalizable to other versions of 3D Slicer! You can download the same version below: 
     **Windows (x64), Mac OS X, and Linux:** https://slicer-packages.kitware.com/#collection/5f4474d0e1d8c75dfc70547e/folder/60add36eae4540bf6a89be73
 
 ## Interface Overview
