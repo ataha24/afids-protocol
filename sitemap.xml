@@ -2,52 +2,77 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://github.com/afids/afids-protocol/index.html</loc>
-         <lastmod>2023-05-09</lastmod>
+         <lastmod>2023-10-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://github.com/afids/afids-protocol/contributing.html</loc>
-         <lastmod>2023-05-09</lastmod>
+         <lastmod>2023-10-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://github.com/afids/afids-protocol/license.html</loc>
-         <lastmod>2023-05-09</lastmod>
+         <lastmod>2023-10-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://github.com/afids/afids-protocol/references.html</loc>
-         <lastmod>2023-05-09</lastmod>
+         <lastmod>2023-10-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/afids/afids-protocol/3d_slicer/linear_transforms.html</loc>
-         <lastmod>2023-05-09</lastmod>
+         <loc>https://github.com/afids/afids-protocol/3d_slicer/Version%204.10/linear_transforms.html</loc>
+         <lastmod>2023-10-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/afids/afids-protocol/3d_slicer/saving_slicer_scenes.html</loc>
-         <lastmod>2023-05-09</lastmod>
+         <loc>https://github.com/afids/afids-protocol/3d_slicer/Version%204.10/saving_slicer_scenes.html</loc>
+         <lastmod>2023-10-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/afids/afids-protocol/3d_slicer/ui_shortcuts.html</loc>
-         <lastmod>2023-05-09</lastmod>
+         <loc>https://github.com/afids/afids-protocol/3d_slicer/Version%204.10/ui_shortcuts.html</loc>
+         <lastmod>2023-10-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/afids/afids-protocol/afids_protocol/human_protocol.html</loc>
-         <lastmod>2023-05-09</lastmod>
+         <loc>https://github.com/afids/afids-protocol/3d_slicer/Version%204.11%2B/linear_transforms.html</loc>
+         <lastmod>2023-10-24</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://github.com/afids/afids-protocol/3d_slicer/Version%204.11%2B/saving_slicer_scenes.html</loc>
+         <lastmod>2023-10-24</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://github.com/afids/afids-protocol/3d_slicer/Version%204.11%2B/ui_shortcuts.html</loc>
+         <lastmod>2023-10-24</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://github.com/afids/afids-protocol/afids_protocol/human_protocol_T1w.html</loc>
+         <lastmod>2023-10-24</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://github.com/afids/afids-protocol/afids_protocol/human_protocol_T2w.html</loc>
+         <lastmod>2023-10-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://github.com/afids/afids-protocol/afids_protocol/macaca_protocol.html</loc>
-         <lastmod>2023-05-09</lastmod>
+         <lastmod>2023-10-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://github.com/afids/afids-protocol/afids_protocol/preparation.html</loc>
-         <lastmod>2023-05-09</lastmod>
+         <lastmod>2023-10-24</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://github.com/afids/afids-protocol/afids_protocol/preparation_4.11%2B.html</loc>
+         <lastmod>2023-10-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>

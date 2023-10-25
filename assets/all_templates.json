@@ -1,6 +1,6 @@
 [
   {
-    "text": "Human",
+    "text": "Human_T1w",
     "icon": "fa fa-folder",
     "nodes": [
       {
@@ -55,6 +55,45 @@
             "text": "UHF.nii",
             "icon": "fa fa-file",
             "href": "https://drive.google.com/file/d/1Vvc_dqrFyWXpWsmU7J4nGu6MwwNsWPno/view?usp=sharing"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "text": "Human_T2w",
+    "icon": "fa fa-folder",
+    "nodes": [
+      {
+        "text": "SNSXPD",
+        "icon": "fa fa-folder",
+        "nodes": [
+          {
+            "text": "SNSXPD.nii",
+            "icon": "fa fa-file",
+            "href": "https://drive.google.com/file/d/1i-TSK10W_wsxzd4FC2qSCEsLvoWaIUFw/view?usp=sharing"
+          }
+        ]
+      },
+      {
+        "text": "SNSX",
+        "icon": "fa fa-folder",
+        "nodes": [
+          {
+            "text": "SNSX.nii",
+            "icon": "fa fa-file",
+            "href": "https://drive.google.com/file/d/1mj-o5thlHWs-3fTv9UZeB6ionFwrrtt9/view?usp=share"
+          }
+        ]
+      },
+      {
+        "text": "SNSXCN",
+        "icon": "fa fa-folder",
+        "nodes": [
+          {
+            "text": "SNSXCN.nii",
+            "icon": "fa fa-file",
+            "href": "https://drive.google.com/file/d/1PKjytcxRAMIJwp7h72kD25jhpr8s1ueR/view?usp=share"
           }
         ]
       }
